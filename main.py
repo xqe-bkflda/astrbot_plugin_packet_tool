@@ -12,7 +12,7 @@ from astrbot.api.message_components import (
 from astrbot.core.utils.astrbot_path import get_astrbot_data_path
 from astrbot.core.star.filter.permission import PermissionType
 
-DEFAULT_SIGN_SERVER = "http://h2.secnet.cc:26321/sign"
+DEFAULT_SIGN_SERVER = ""
 URL_PATTERN = re.compile(r'https?://[^\s]+', re.IGNORECASE)
 BLACK_BAR_KEYWORDS = [
     "群聊", "风险", "提醒", "违规", "警告", "被撤", "已撤回",
@@ -24,7 +24,7 @@ BLACK_BAR_KEYWORDS = [
     "YourName",
     "QQ协议包工具（取信息/取链接/看卡/发卡/取黑条/向上获取/发包）",
     "4.2.4",
-    "https://github.com/yourname/astrbot_plugin_packet_tool",
+    "https://github.com/xqe-bkflda/astrbot_plugin_packet_tool",
 )
 class PacketToolPlugin(Star):
     def __init__(self, context: Context):
