@@ -3,7 +3,7 @@ display_name: QQ协议包工具
 desc: 提供取信息/取链接/看卡/发卡/发小程序/取黑条消息/配置签名服务器等完整协议操作
 author: YourName
 version: 4.2.1
-repo: https://github.com/yourname/astrbot_plugin_packet_tool
+repo: https://github.com/xqe-bkflda/astrbot_plugin_packet_tool
 astrbot_version: ">=4.16"
 support_platforms:
   - aiocqhttp
