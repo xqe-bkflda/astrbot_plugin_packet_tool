@@ -29,7 +29,7 @@
 ## 数据存储
 
 所有配置（如自定义的签名服务器地址）都会保存在 AstrBot 数据目录下：  
-`data/plugin_data/astrbot_plugin_packet_tool/config.json`  
+`data/plugin_data/astrbot_plugin_packet_tool/`  
 
 消息缓存只存在内存里（最多保留 100 条），重启机器人就清零，不用担心隐私问题。
 
