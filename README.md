@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="assets/banner.png" alt="astrbot_plugin_packet_tool" width="100%">
+</div>
+
+<p align="center">
+[![AstrBot](https://img.shields.io/badge/AstrBot%20plugin-2A3B52?style=flat-square)](https://github.com/AstrBotDevs/AstrBot)
+  [![License](https://img.shields.io/badge/license-MIT-3DDC84?style=flat-square)](LICENSE)
+</p>
+
 # QQ协议包工具插件
 
 一个专门给 AstrBot 用的 QQ 协议包小工具，能帮你翻聊天记录、抓链接、发/看 JSON 卡片、找黑条消息、向上考古、自定义发包
